@@ -1,4 +1,6 @@
-# Call Activity Script Using Python
+# Call Activity Script Using Python for close.com
+
+## Check your call activity for the day by installing and running this script.
 
 ## How to Run
 
